@@ -32,6 +32,12 @@
   Bio: I'm an enthusiast for sci-fi, code, technology and ice cream.  
   GitHub: [baiana](https://github.com/baiana)  
   Facebook:  
+  
+- Name:  Arun Kumar
+  Place: New Delhi, India  
+  Bio:  Think in codes.  
+  GitHub: [Alex19960](https://github.com/Alex19960)  
+  Facebook:  
 
 - Name: Onuwa Nnachi Isaac  
   Place: Lafia, Nigeria  
